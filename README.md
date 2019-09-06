@@ -13,3 +13,6 @@ Once installed successfully :
     eg: EnhanceXCpretty "/Users/hitesh/report.html"
 
 NOTE: This modifies the existing report.html file. So in case you need the original copy, please keep a copy of that.
+
+
+Thanks [Lyndsey](https://github.com/lyndsey-ferguson) for suggesting me to create this as gem, and helping me with with my first gem.
